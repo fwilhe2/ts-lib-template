@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
-    "@types/node": "^18.11.0",
+    "@types/node": "^18.11.2",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@typescript-eslint/parser": "^5.40.1",
     "ava": "^4.3.3",
