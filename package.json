@@ -12,7 +12,7 @@
     "dependency-upgrade": "yarn upgrade && yarn run all"
   },
   "devDependencies": {
-    "@ava/typescript": "^4.0.0",
+    "@ava/typescript": "^4.1.0",
     "@types/node": "^18.16.18",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
